@@ -2,11 +2,7 @@
 
 ### Build it yourself
 - [https://www.vultr.com/](https://www.vultr.com/?ref=7589734)
-        ````
-        yum install wget
-        wget –no-check-certificate -O shadowsocks.sh https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks.sh
-        chmod +x shadowsocks.sh
-        ./shadowsocks.sh 2>&1 | tee shadowsocks.log
+- https://github.com/wistbean/vpn
 - https://shadowsocks.org/en/download/clients.html
 
 ### Product
