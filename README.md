@@ -13,3 +13,6 @@
 - [https://justmysocks.net](https://justmysocks.net/members/aff.php?aff=4241)
 - [https://order.shadowsocks.at](https://order.shadowsocks.at/aff.php?aff=27690)
   
+### Tools
+- https://github.com/2dust/v2rayN
+- https://github.com/Fndroid/clash_for_windows_pkg
